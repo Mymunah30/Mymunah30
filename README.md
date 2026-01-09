@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Maimuna Aminu Suleiman  
+### 👋 Hello, I’m Maimuna Aminu Suleiman  
 🎓 4th-year Software Engineering student at OSTIM Technical University (Ankara, Turkey)  
 📊 Passionate about Data Analysis and Data Science  
 💻 Skilled in Python, SQL, Excel, and basic Web Development  
