@@ -3,7 +3,7 @@
 📊 Passionate about Data Analysis and Data Science  
 💻 Skilled in Python, SQL, Excel, and basic Web Development  
 🌱 Currently learning Data Visualization, Pandas, and SQL for analytics  
-📫 Reach me on [LinkedIn](www.linkedin.com/in/maimuna-aminu-suleiman)  
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/maimuna-aminu-suleiman/)
 
 ---
 
